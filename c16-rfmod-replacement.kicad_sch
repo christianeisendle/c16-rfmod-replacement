@@ -3230,7 +3230,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1k"
 			(at 76.2 81.2799 0)
 			(effects
 				(font
@@ -4831,7 +4831,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "220"
 			(at 81.28 66.0399 0)
 			(effects
 				(font
@@ -5212,10 +5212,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a7e3cf23-4577-4927-9ee5-7989580d7c9f")
+			(uuid "a7e3cf23-4577-4927-9ee5-7989580d7ca0")
 		)
 		(pin "2"
-			(uuid "dac6f0be-947e-4273-bd42-28067b00d146")
+			(uuid "dac6f0be-947e-4273-bd42-28067b00d147")
 		)
 		(instances
 			(project ""
